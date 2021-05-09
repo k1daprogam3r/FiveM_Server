@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<!-- ### launcher ### -->
+		
+		<Item>
+			<modelName>W_LR_AIMF22</modelName>
+			<txdName>W_LR_AIMF22</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="100"/>
+		</item>
+		<Item>
+			<modelName>W_LR_R40R</modelName>
+			<txdName>W_LR_R40R</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="100"/>
+		</Item>
+
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

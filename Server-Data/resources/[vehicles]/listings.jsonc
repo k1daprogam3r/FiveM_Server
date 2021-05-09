@@ -1,0 +1,61 @@
+// List of all vehicles contained inside this folder
+
+{
+    "planes": [
+        "B707",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "cars": [
+        "Mercedes AMG-GT", // 
+        "Ariel Atom V8", // 
+        "Audi RS6", // 
+        "BMW 760i", // 
+        "Bugatti Bolide", // 
+        "Bugatti Chiron", // 
+        "Corvette C8-R", // 
+        "Caterham R500", /** can't enter vehicle */
+        "Corvette C63", // 
+        "Dodge Demon", // 
+        "Ferrari Testarossa", // 
+        "Ferrari F-40", 
+        "Ferrari-F8 Spyder", //
+        "Ferrari Stradale", // 
+        "Ford Focus RS", /** can't enter vehicle */
+        "Mercedes GLE-63", // 
+        "Nissan GTR-50", // 
+        "Honda DelSol", // 
+        "Lamborghini Huracan Peformante", // 
+        "Jagua xj-12", /** can't enter vehicle */
+        "Lamborghini Huracan-STO", // 
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+}

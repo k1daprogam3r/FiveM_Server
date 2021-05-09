@@ -1,0 +1,199 @@
+{
+  "vehicles": [
+    /** PLANES */
+      /** CIVILLIAN */
+        /** BOEING */
+          "b707",
+          "748",
+          "b757",
+          "b777", // remove cause absolutely shit
+          "b727", // texture fixing
+          "737200", // texture fixing
+          "7673", // texture fixing
+          "p8a", // texture fixing
+        /** AIRBUS */
+          "a318", // rename, texture fixing
+          "a319",
+          "a320",
+          "a321",
+          "a380",
+          "a350x",
+          "rca350",
+        "dc10",
+        "conc",
+        "md90", // remove cause fucking awful
+        "crj700",
+        "crj1000",
+        "e145",
+        "e175",
+        "e190",
+        "e390",
+        "e1000",
+        "il62m",
+        "il96",
+        "qw78x", // fix textures?
+        "sr71b",
+        "e175e2",
+        "beluxl",
+      /** MILITARY */
+        /** JETS */
+          "aa10",
+          "f16",
+          "f22a",
+          "f15smtd",
+          "wyvern",
+          "f14d2",
+          "f117",
+          "fa18f",
+          "f35b",
+          "su33",
+          "hindenburg",
+          "gripen",
+          "j10",
+          "j31b",
+          "mig31", // not streamed correctly
+          "eurot",
+          "spirit",
+      /** CARGO */
+        "ac130",
+        "galaxy",
+        "globe",
+        "an225",
+        "an225b",
+        "kj2000",
+      /** MISCILANIOUS */
+        "mq9",
+        "b25",
+        "u2s",
+        "spitfire",
+        "bf109e3",
+        "c208",
+        "asw15",
+        "an32",
+        "tbltug",
+        "f50",
+        "f14tomcat",
+        "tu154m", // how the fuck is this a thing. get rid off it
+        "su25",
+        
+    /** HELIS */
+      "ah64d",
+      "heliplane",
+    /** BOATS */
+
+
+    /** CARS */
+      /** COMPACTS */
+        "hondelsol", 
+        "multipla",  
+
+      /** SEDANS */
+        "760li06",
+        "amgce", 
+        "bnr32",
+        "c70t5r", 
+        "sc300", 
+
+      /** SUV */
+        "gle21", 
+        "gxg63",
+
+      /** COUPES */
+        "golfmk7", 
+
+      /** MUSCLE */
+        "demonboi",
+
+      /** OF-ROAD */
+        "19raptor", 
+
+      /** SPORTS */
+        "ffrs",
+        "amggtbs",
+        "cr500",
+        "vw16",
+        "ligier_lmp2", 
+        "rtruck",
+        "atom",
+        "bmwm8",
+        "sl65bs",
+        "mcgt20",
+        "subietuning",
+
+      /** MEMEWORKS */
+        "caddyghk",
+        "dilettanteofrd",
+        "issiv8",
+        "lbmx",
+        "regina4x4",
+        "regina6x6",
+        "roundabout",
+        "stance",
+        "tacor",
+        "tractorcv24",
+
+      /** SPORT CLASSIC */
+        "jag13", 
+        "testarossa",
+        "corvette63",
+
+      /** UTIL */
+        "gfly",
+      
+      /** SUPER */
+        "alfa",
+        "sf90", 
+        "bolide",
+        "c8r",
+        "gtr50",
+        "HurPerNov",
+        "hypersport",
+        "mcst",
+        "rimac",
+        "STO",
+        "vip8",
+        "chiron17",
+        "sianr",
+        "720nlargo",
+        "f8spider",
+        "ttrs", // texture fixing
+          /** F1 CARS */
+            "f1concept",
+            "kimi7",
+            "mercedesf1",
+            "redbull",
+            "willif1",
+            "safety2",
+            "lotus11",
+        
+      /** VANS */
+        "nspeedo",
+
+      /** AWAITING ADDON */
+        "por719gt4", // Not streamed correctly
+        "c172",
+        "svt100", // not streamed correctly
+        "rs6avant20",
+
+        
+      
+      /** MOTORCYCLES */
+        "6736",
+        "aerox155", 
+        "gxr1000", // not streamed correctly
+        "cbr300" // texture fixing // not streamed correctly
+
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "addonweaponname1",
+    "addonweaponname2"
+  ],
+  "weapon_components": [
+    "weapon_component_name_1",
+    "weapon_component_name_2"
+  ]
+}

@@ -1,0 +1,8 @@
+citizen/system_resources/
+Server-Data/*.cfg
+Server-Data/*.bkp
+Server-Data/cache/
+Server-Data/resources/\[local\]/
+Server-Data/db/
+.vscode
+citizen/scripting/rpc_natives.json
